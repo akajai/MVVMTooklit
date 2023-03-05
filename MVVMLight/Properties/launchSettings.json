@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "MVVM": {
+      "commandName": "Project",
+      "nativeDebugging": false,
+      "jsWebView2Debugging": false,
+      "sqlDebugging": false
+    },
+    "Profile 1": {
+      "commandName": "Project",
+      "nativeDebugging": false,
+      "jsWebView2Debugging": false,
+      "sqlDebugging": false
+    }
+  }
+}
