@@ -1,7 +1,7 @@
 ﻿using MVVM.ModelView;
 using System.Windows;
 
-namespace MVVMLight
+namespace MVVM
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

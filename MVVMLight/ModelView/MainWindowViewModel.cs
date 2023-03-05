@@ -1,7 +1,7 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using MVVM.DBContext;
-using MVVMLight.Models;
+using MVVM.Models;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Configuration;

@@ -1,6 +1,6 @@
 ﻿using SQLite;
 
-namespace MVVMLight.Models
+namespace MVVM.Models
 {
     public class FileName
     {

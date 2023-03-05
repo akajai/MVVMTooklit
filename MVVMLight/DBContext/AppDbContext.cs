@@ -1,4 +1,4 @@
-﻿using MVVMLight.Models;
+﻿using MVVM.Models;
 using SQLite;
 
 namespace MVVM.DBContext
